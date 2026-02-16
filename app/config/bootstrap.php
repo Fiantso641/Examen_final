@@ -17,7 +17,7 @@ if (!file_exists(__DIR__ . $ds . 'config.php')) {
 $app = Flight::app();
 
 // Indique à Flight où trouver les classes (controllers, models, etc)
-$app->path(__DIR__ . $ds . '..' . $ds . '..' . $ds . 'app');
+$app->path(__DIR__ . $ds . '..' . $ds . '..');
 
 // Charger la configuration
 $config = require 'config.php';
