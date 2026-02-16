@@ -8,7 +8,11 @@
         <div class="tk-muted small">Suivi collectes & distributions de dons</div>
       </div>
       <div class="col-md-6 text-md-end">
+<<<<<<< HEAD
         <div class="small tk-muted tk-members">ETU004296 | ETU004146 | ETU004588</div>
+=======
+        <div class="small tk-muted tk-members">ETU004296 ETU004146 | ETU004588</div>
+>>>>>>> 71b45e4d2d97aa5f11b240f7a196a0640293d960
       </div>
     </div>
   </div>
