@@ -52,7 +52,7 @@ $app->set('csp_nonce', $nonce);
 return [
     'database' => [
         'host'     => 'localhost',
-        'dbname'   => 'takalo_db',
+        'dbname'   => 'bngrc_db',
         'user'     => 'root',
         'password' => '',
         'charset'  => 'utf8mb4',
@@ -64,7 +64,7 @@ return [
     ],
 
     'app' => [
-        'name'    => 'Takalo-takalo',
+        'name'    => 'BNGRC - Dons',
         'version' => '1.0.0',
     ],
 ];
